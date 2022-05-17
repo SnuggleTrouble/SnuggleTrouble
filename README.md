@@ -5,6 +5,11 @@
 - 📫 How to reach me: Email: stabjo@outlook.com || LinkedIn: www.linkedin.com/in/staale-bjoerdal
 - 🌱 I’m currently looking for a Frontend || Full-Stack web developer full-time opportunities in Amsterdam, Netherlands.
 
+My Projects during the Ironhack bootcamp:
+- 3rd Project: https://mentat.netlify.app/landing
+- 2nd Project: https://mynichijournalapp.herokuapp.com/
+- 1st Project: https://snuggletrouble.github.io/Project1-Snake-Game/
+
 <!--
 **SnuggleTrouble/SnuggleTrouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
