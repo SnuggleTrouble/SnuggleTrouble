@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ... React.js
+- 😄 I graduated from the Web Development bootcamp held by Ironhack
+- ⚡ Fun fact: I'm a PC Gamer
+- 📫 How to reach me: Email: stabjo@outlook.com || LinkedIn: www.linkedin.com/in/staale-bjoerdal
+- 🌱 I’m currently looking for a Frontend || Full-Stack web developer full-time opportunities in Amsterdam, Netherlands.
 
 <!--
 **SnuggleTrouble/SnuggleTrouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
