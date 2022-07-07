@@ -3,7 +3,7 @@
 - 😄 I graduated from the Web Development bootcamp held by Ironhack.
 - ⚡ Fun fact: I'm a PC Gamer and I paint Warhammer miniatures.
 - 📫 How to reach me: Email: stabjo@outlook.com || LinkedIn: www.linkedin.com/in/staale-bjoerdal
-- 🌱 I’m currently looking for a Frontend || Full-Stack web developer full-time opportunities in The Netherlands.
+- 🌱 I’m currently looking for full-time opportunities in The Netherlands as a Frontend web developer.
 
 My Projects during the Ironhack bootcamp:
 - 3rd Project: https://mentat.netlify.app/landing
