@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning React.js
-- 😄 I graduated from the Web Development bootcamp held by Ironhack.
+- 😄 I'm a full-stack web developer graduate from the intensive Ironhack web development bootcamp.
 - ⚡ Fun fact: I'm a PC Gamer and I paint Warhammer miniatures.
 - 📫 How to reach me: Email: stabjo@outlook.com || LinkedIn: www.linkedin.com/in/staale-bjoerdal
+- 📫 My portfolio website: https://staalebjoerdal.com/
 - 🌱 I’m currently looking for full-time opportunities as a Frontend web developer.
 
 My Projects during the Ironhack bootcamp:
