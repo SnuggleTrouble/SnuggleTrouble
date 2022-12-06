@@ -11,6 +11,8 @@ My Projects during the Ironhack bootcamp:
 - 2nd Project: https://mynichijournalapp.herokuapp.com/
 - 1st Project: https://snuggletrouble.github.io/Project1-Snake-Game/
 
+(づ￣ ³￣)づ ︵ ┬──┬
+
 <!--
 **SnuggleTrouble/SnuggleTrouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
