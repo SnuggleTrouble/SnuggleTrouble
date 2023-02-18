@@ -6,11 +6,6 @@
 - 📫 My portfolio website: https://staalebjoerdal.com/
 - 🌱 I’m currently looking for full-time opportunities as a Frontend web developer.
 
-My Projects during the Ironhack bootcamp:
-- 3rd Project: https://mentat.netlify.app/landing
-- 2nd Project: https://mynichijournalapp.herokuapp.com/
-- 1st Project: https://snuggletrouble.github.io/Project1-Snake-Game/
-
 (づ￣ ³￣)づ ︵ ┬──┬
 
 <!--
