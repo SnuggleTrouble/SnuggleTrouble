@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, FastAPI & Python
 - 😄 I'm a full-stack web developer graduate from the intensive Ironhack web development bootcamp.
 - ⚡ Fun fact: I'm a PC Gamer and I paint Warhammer miniatures.
 - 📫 How to reach me: Email: stabjo@outlook.com || LinkedIn: www.linkedin.com/in/staale-bjoerdal
